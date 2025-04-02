@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>The diagram below provides an overview of the various components involved.</p>
-  <img src="https://github.com/user-attachments/assets/e5e0b2a2-f3eb-4f75-912d-03b52a13f02c" alt="Voting App Architecture" width="600"/>
+  <img src="https://github.com/user-attachments/assets/4ec02b5b-2fef-4db5-bea8-a6969966a3b7" alt="Voting App Architecture" width="600"/>
 </div>
 
 <p><strong>•</strong> A front-end web app in <strong>Python</strong> that lets users vote between two options.</p>
